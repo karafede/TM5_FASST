@@ -4,5 +4,4 @@ It has become increasingly clear that environmental impacts of anthropogenic air
 Over the last few years, increasing attention is devoted to the evaluation of  the health impacts of local air pollution . 
 Understanding the sources of these pollutants is crucial to identify cost-effective emission reduction measures. Particulate matter, especially those particles with a diameter up to 2.5 microns (PM2.5), is of particular concern because it penetrates deep into the respiratory system. Epidemiological studies consistently show increased mortality risk from exposure to PM2.5.
 
-https://rawgit.com/karafede/PM2.5_Satellite_London/master/GWR_London.html
-https://rawgit.com/karafede/TM5_FASST/master/TM5-FASST_draft_FK.pdf
+<strong>https://rawgit.com/karafede/TM5_FASST/master/TM5-FASST_draft_FK.pdf
