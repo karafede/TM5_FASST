@@ -1,5 +1,4 @@
-# TM5_FASST
-Chemical Transport Model using HTAP &amp; EDGAR emission Inventories for the base year 2010
+# Chemical Transport Model using HTAP & EDGAR emission Inventories for the base year 2010
 
 It has become increasingly clear that environmental impacts of anthropogenic air pollutants are among the most pressing problems for present and future generations. New estimates just released by the World Health Organization confirm (WHO) that air pollution is now the world's largest single environmental health risk. In March 2014, WHO reported that in 2012 around 7 million premature deaths could be attributed to in- and outdoor air pollution, that is one in eight of total global deaths.
 Over the last few years, increasing attention is devoted to the evaluation of  the health impacts of local air pollution . 
